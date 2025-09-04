@@ -49,12 +49,7 @@ User -> Chat UI -> Flask API -> LLM (via LangChain) -> Pinecone DB -> Response -
 
 ---
 
-### **1. Clone the Repository**
 
-```bash
-git clone https://github.com/your-username/medical-chatbot.git
-cd medical-chatbot
-```
 
 ### **2. Create Virtual Environment**
 
